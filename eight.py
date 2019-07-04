@@ -1,2 +1,2 @@
-a=str(input())
-print(a.title())
+bg=str(input())
+print(bg.title())
