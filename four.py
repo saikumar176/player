@@ -1,2 +1,2 @@
-s=str(input())
-print(s+".")
+sa=str(input())
+print(sa+".")
