@@ -1,3 +1,3 @@
-a=str(input())
-s=[" I"," II","III "," IV"," V"," VI"," VII","VIII ","IX ","X "," XI"," XII","XIII ","XIV ","XV","XVI","XVII","XVIII","XIX","XX"]
-print (s.index(a)+1)
+ab=str(input())
+sa=[" I"," II","III "," IV"," V"," VI"," VII","VIII ","IX ","X "," XI"," XII","XIII ","XIV ","XV","XVI","XVII","XVIII","XIX","XX"]
+print (sa.index(ab)+1)
