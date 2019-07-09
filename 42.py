@@ -9,6 +9,6 @@ dd=int(input())
 arr = list(map(str,(input().split())))
 n = len(arr)
 if (arraySortedOrNot(arr, n)):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
